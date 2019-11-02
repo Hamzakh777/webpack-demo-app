@@ -1,0 +1,25 @@
+{
+  "name": "Webpack",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "'./node_modules/.bin/webpack'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hamzakh777/webpack-demo-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hamzakh777/webpack-demo-app/issues"
+  },
+  "homepage": "https://github.com/Hamzakh777/webpack-demo-app#readme",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
