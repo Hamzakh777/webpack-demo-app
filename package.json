@@ -5,7 +5,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "'./node_modules/.bin/webpack'"
+    "start": "'./node_modules/.bin/webpack' --config webpack.config.js"
   },
   "repository": {
     "type": "git",
